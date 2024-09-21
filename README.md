@@ -14,6 +14,7 @@ The dashboard will focus on providing insights into:
 - **Compensation Analysis**: Review average salaries by job roles and departments to ensure competitive and equitable pay structures.
 - **Employment Trends Over Time**: rack changes in employment and attrition over time to forecast staffing needs.
 
+![Sales Dashboard page](https://github.com/Bhumigor/HR-Analytics-Dashboard/blob/main/Photos/Dashboard.png)
 
 
 ## Tools Used
